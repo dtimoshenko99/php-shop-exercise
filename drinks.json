@@ -1,0 +1,11 @@
+{
+    "drinks": [
+        { "id": "1", "name": "Mojito", "description": "10 fresh mint leaves, 1/2 lime, cut into 4 wedges, 2 tablespoons white sugar, or to taste, 1 cup ice, 1 1/2 fluid ounces white rum, 1/2 cup club soda", "price": "20.20", "image": "../images/mojito.jpg" },
+        { "id": "2", "name": "Cosmopolitan", "description": "2 oz Vodka 1 oz Cointreau 1/2 oz Cranberry juice 1/2 oz Fresh sour mix Lemon twist for garnish", "price": "12.50", "image": "../images/cosmo.jpg" },
+        { "id": "3", "name": "Long Island", "description": "1/2 oz vodka, 1/2 oz gin, 1/2 oz light rum, 1/4 oz tequila, 1/2 oz triple sec, 1 Tbsp. fresh lemon juice or possibly to taste 6 oz cola or potentially to fill broken ice", "price": "20.90", "image": "../images/long.jpg" },
+        { "id": "4", "name": "Californication", "description": "1/2 oz of vodka, gin, white rum and tequila, Freshly squeezed lemon juice, 1 oz Orange liqueur, 3 oz's fresh squeezed orange juice, Garnish with slice of fresh cut orange", "price": "10.10", "image": "../images/cali.jpg" },
+        { "id": "5", "name": "Pina Colada", "description": "2 oz Captain Morgan Original Spiced Rum, 1 Maraschino cherries, 6 oz pina colada mix, 2 oz pineapple juice, 1 pineapple quartered and sliced", "price": "14.50", "image": "../images/pina.jpg" },
+        { "id": "6", "name": "Margarita", "description": "1 (6 ounces) can frozen limeade concentrate, 6 fluid ounces tequila, 1 oz Cointreau orange liqueur, 2 fluid ounces triple sec", "price": "10.50", "image": "../images/margarita.jpg" },
+        { "id": "7", "name": "Mai Tai", "description": "1 oz light rum, 1 oz gold rum, 1/2 oz Orange Curacao liqueur, 1/2 oz orgeat syrup (almond syrup), 1/2 oz lime juice, 1 oz dark rum", "price": "150.50", "image": "../images/mai.jpg" }
+    ]
+}
